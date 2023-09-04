@@ -7,7 +7,7 @@
  - [ ] Make the speed independent of the framerate
 
 ## Usage
-**ONLY WORKS ON OSX*
+**ONLY WORKS ON OSX**
 ```bash
 ./build.sh
 ./complex # not that hard
